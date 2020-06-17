@@ -1,3 +1,28 @@
 = developer-roadmap-2020
+:toc: left
+:sectnums:
+:toclevels: 3
 
-include:frontend/index.adoc[]
+// front
+include::../frontend/1.Internet/README.adoc[]
+include::../frontend/2.HTML/README.adoc[]
+include::../frontend/3.CSS/README.adoc[]
+include::../frontend/4.JavaScript/README.adoc[]
+include::../frontend/5.VersionControlSystems/README.adoc[]
+include::../frontend/6.WebSecurityKnowledge/README.adoc[]
+include::../frontend/7.PackageManagers/README.adoc[]
+include::../frontend/8.CSSArchitecture/README.adoc[]
+include::../frontend/9.CSSPreprocessors/README.adoc[]
+include::../frontend/10.BuildTools/README.adoc[]
+include::../frontend/11.PickaFramework/README.adoc[]
+include::../frontend/12.ModernCSS/README.adoc[]
+include::../frontend/13.WebComponent/README.adoc[]
+include::../frontend/14.TestingYourApps/README.adoc[]
+include::../frontend/15.TypeChecker/README.adoc[]
+include::../frontend/16.ProgressiveWebApps/README.adoc[]
+include::../frontend/17.ServerSideRendering/README.adoc[]
+include::../frontend/18.GraphQL/README.adoc[]
+include::../frontend/19.StaticSiteGenerators/README.adoc[]
+include::../frontend/20.MobileApplications/README.adoc[]
+include::../frontend/21.DesktopApplications/README.adoc[]
+include::../frontend/22.WebAssembly/README.adoc[]
