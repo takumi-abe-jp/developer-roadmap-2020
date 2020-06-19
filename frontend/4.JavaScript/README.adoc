@@ -1,4 +1,10 @@
-=== 4.JavaScript
-init
-==== init
-init
+=== JavaScript
+動的
+
+==== Module
+link:https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/import[import - MDN]
+importするとstrictモードで呼び出される。
+
+==== strictモード
+link:https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Strict_mode[strict - MDN]
+strictモードが有効では、何も起きなかったものがエラーになる可能性があります。詳しくはドキュメント参照。

@@ -1,4 +1,7 @@
 === 11.PickaFramework
-init
-==== init
-init
+各フレームワークの特徴とチュートリアル
+
+==== Angular v9.1.9
+* Googleによって
+* link:https://angular.jp/docs[公式ドキュメント]
+* Component思考、設計により、DI(依存性の注入)を意識したプログラミングが出来る。
