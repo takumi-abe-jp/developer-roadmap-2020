@@ -1,4 +1,0 @@
-=== 19.StaticSiteGenerators
-init
-==== init
-init

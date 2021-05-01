@@ -3,49 +3,53 @@
 :sectnums:
 :toclevels: 4
 
+:front: ../frontends
+:back: ../backends
+:back: ../books
+
 // front
-include::../frontend/README.adoc[]
+include::{front}/README.adoc[]
 
-include::../frontend/1.Internet/README.adoc[]
+include::{front}/1.Internet/README.adoc[]
 
-include::../frontend/2.HTML/README.adoc[]
+include::{front}/2.HTML/README.adoc[]
 
-include::../frontend/3.CSS/README.adoc[]
+include::{front}/3.CSS/README.adoc[]
 
-include::../frontend/4.JavaScript/README.adoc[]
+include::{front}/4.JavaScript/README.adoc[]
 
-include::../frontend/5.VersionControlSystems/README.adoc[]
+include::{front}/5.VersionControlSystems/README.adoc[]
 
-include::../frontend/6.WebSecurityKnowledge/README.adoc[]
+include::{front}/6.WebSecurityKnowledge/README.adoc[]
 
-include::../frontend/7.PackageManagers/README.adoc[]
+include::{front}/7.PackageManagers/README.adoc[]
 
-include::../frontend/8.CSSArchitecture/README.adoc[]
+include::{front}/8.CSSArchitecture/README.adoc[]
 
-include::../frontend/9.CSSPreprocessors/README.adoc[]
+include::{front}/9.CSSPreprocessors/README.adoc[]
 
-include::../frontend/10.BuildTools/README.adoc[]
+include::{front}/10.BuildTools/README.adoc[]
 
-include::../frontend/11.PickaFramework/README.adoc[]
+include::{front}/11.PickaFramework/README.adoc[]
 
-include::../frontend/12.ModernCSS/README.adoc[]
+include::{front}/12.ModernCSS/README.adoc[]
 
-include::../frontend/13.WebComponent/README.adoc[]
+include::{front}/13.WebComponent/README.adoc[]
 
-include::../frontend/14.TestingYourApps/README.adoc[]
+include::{front}/14.TestingYourApps/README.adoc[]
 
-include::../frontend/15.TypeChecker/README.adoc[]
+include::{front}/15.TypeChecker/README.adoc[]
 
-include::../frontend/16.ProgressiveWebApps/README.adoc[]
+include::{front}/16.ProgressiveWebApps/README.adoc[]
 
-include::../frontend/17.ServerSideRendering/README.adoc[]
+include::{front}/17.ServerSideRendering/README.adoc[]
 
-include::../frontend/18.GraphQL/README.adoc[]
+include::{front}/18.GraphQL/README.adoc[]
 
-include::../frontend/19.StaticSiteGenerators/README.adoc[]
+include::{front}/19.StaticSiteGenerators/README.adoc[]
 
-include::../frontend/20.MobileApplications/README.adoc[]
+include::{front}/20.MobileApplications/README.adoc[]
 
-include::../frontend/21.DesktopApplications/README.adoc[]
+include::{front}/21.DesktopApplications/README.adoc[]
 
-include::../frontend/22.WebAssembly/README.adoc[]
+include::{front}/22.WebAssembly/README.adoc[]

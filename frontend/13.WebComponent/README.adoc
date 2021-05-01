@@ -1,4 +1,0 @@
-=== 13.WebComponent
-init
-==== init
-init

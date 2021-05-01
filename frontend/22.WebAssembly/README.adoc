@@ -1,4 +1,0 @@
-=== 22.WebAssembly
-init
-==== init
-init

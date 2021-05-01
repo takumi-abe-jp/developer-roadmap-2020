@@ -1,4 +1,0 @@
-=== 20.MobileApplications
-init
-==== init
-init

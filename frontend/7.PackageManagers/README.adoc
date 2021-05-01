@@ -1,4 +1,0 @@
-=== 7.PackageManagers
-init
-==== init
-init
