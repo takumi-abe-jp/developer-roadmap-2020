@@ -1,4 +1,4 @@
-=== 15.TypeChecker
+=== TypeChecker
 init
 
 ==== init

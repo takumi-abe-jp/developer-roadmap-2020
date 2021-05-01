@@ -1,4 +1,4 @@
-=== 11.PickaFramework
+=== PickaFramework
 各フレームワークの特徴とチュートリアル
 
 ==== Angular v9.1.9

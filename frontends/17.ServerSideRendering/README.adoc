@@ -1,4 +1,4 @@
-=== 17.ServerSideRendering
+=== ServerSideRendering
 init
 
 ==== init
